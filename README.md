@@ -3,7 +3,8 @@
 <h3 align="center">💻 MCA Student | Passionate Coder | Open to Collaboration 🚀</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif
+  <img src="https://github.com/user-attachments/assets/a7b3d389-afdf-4d6d-b366-21e4f1d87963" width="400">
+<img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif
 " alt="coding gif" width="400"/>
   
 </p>
