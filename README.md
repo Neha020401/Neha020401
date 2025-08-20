@@ -2,12 +2,14 @@
 <h1 align="center">Hi 👋, I'm Neha Yadav</h1>
 <h3 align="center">💻 MCA Student | Passionate Coder | Open to Collaboration 🚀</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a7b3d389-afdf-4d6d-b366-21e4f1d87963" width="400">
-  
-</p>
-
 ---
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/a7b3d389-afdf-4d6d-b366-21e4f1d87963" width="400">
+    </td>
+    <td width="60%" valign="top" >
 
 ### 👩‍💻 About Me  
 - 🎓 I’m currently pursuing **MCA**  
@@ -15,6 +17,10 @@
 - 💡 I love building projects with **HTML, CSS, JavaScript, Java, SQL, MongoDB**  
 - 🤝 I’m open to collaborate on exciting projects & innovative ideas  
 - 🚀 Goal: To grow as a **Full Stack Developer**  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
