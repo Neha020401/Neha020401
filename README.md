@@ -12,11 +12,11 @@
     <td width="60%" valign="middle" align="left">
 
 ### 👩‍💻 About Me  
-- 🎓 I’m currently pursuing **MCA**  
-- 🌱 I’m currently learning **Spring Boot**  
-- 💡 I love building projects around **Web Development, Java, SQL, MongoDB**  
-- 🤝 I’m open to collaborate on exciting projects & innovative ideas  
-- 🚀 Goal: To grow as a **Full Stack Developer**  
+- 🎓 I’m currently pursuing MCA  
+- 💡 I love building projects around Web Development, Java, SQL, and MongoDB  
+- 🤝 I’m open to collaborating on exciting projects and innovative ideas  
+- 🚀 Goal: To grow as a Full Stack Developer  
+- 💼 Passionate about working on real-world projects and learning new technologies   
 
     </td>
   </tr>
