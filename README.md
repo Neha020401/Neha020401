@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats & Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neha020401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160px" alt="GitHub Stats"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=Neha020401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160px" alt="GitHub Stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha020401&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" height="160px" alt="GitHub Streak"/>
 </div>
 
